@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url(netflixteaser.png);
+}
+#container {
+    background-color: rgb(0, 0, 0, 0.6);
+    width: 260px;
+    margin: 10px auto;
+    padding: 11px;
+}
+
+#title {
+    text-align: center;
+    color: red
+    font-size: 48px;
+    letter-spacing: 4px;
+    margin-bottom: auto;
+    font-weight: 480px;
+
+}
+span {
+ color: red;
+}
+.box {
+    color: aliceblue;
+}
+
+.main {
+    background-color: rgb(0, 0, 0, 0.2);
+    width: 73%;
+    margin: 11px auto;
+    margin-bottom: 11px;
+
+}
+p {
+    color: whitesmoke;
+}
+.box input {
+    width: 222px;
+    padding: 9px;
+}
+.araba2 {
+    color: white;
+    margin: 11px;
+
+}
+.araba1 {
+    color: white;
+}
+.emircan {
+    width: 202px;
+}
+.box select {
+width: 212px;
+padding: 6px;
+}
+.button {
+    color: white;
+    width: 123px;
+    border-radius: 22px;
+    padding: 6px;
+    background-color: red;
+
+}
+.button {
+    text-align: center;
+}
+.button input:hover {
+cursor: pointer;
+opacity: 0.6;
+}
